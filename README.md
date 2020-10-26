@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Hess 
+- I am a student interested in the C programming language
+- I am unemployed and not looking for work
+
+![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrlou)
+
