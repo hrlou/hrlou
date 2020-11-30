@@ -19,7 +19,7 @@ My name is Hess
 - I am unemployed and not looking for work
 
 ### Builds
-I build some software I find useful, it can be found [here](https://hral.xyz/builds)
+I build some software I find useful, it can be found [here](https://dump.hral.xyz/builds)
 I currently have, ffmpeg and gcc
 
 ### Languages
