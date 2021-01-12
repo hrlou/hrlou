@@ -22,7 +22,7 @@ My name is Hess
 I build some software I find useful, it can be found [here](https://dump.hral.xyz/builds)
 I currently have, ffmpeg and gcc
 
-### Languages
 
-![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrlou)
+![Stats](https://github-readme-stats.vercel.app/api?username=hrlou&show_icons=true&theme=dark)
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrlou&show_icons=true&theme=dark&layout=compact)
